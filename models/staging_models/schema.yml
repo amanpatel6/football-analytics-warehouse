@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: football_raw
+    schema: main
+    tables:
+      - name: raw_matches
+      - name: raw_teams
+      - name: raw_players
+      - name: raw_referees
+      - name: raw_venues
