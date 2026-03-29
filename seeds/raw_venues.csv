@@ -1,0 +1,21 @@
+venue_id,venue_name,city,capacity,surface
+1,Emirates Stadium,London,60704,grass
+2,Villa Park,Birmingham,42785,grass
+3,Gtech Community Stadium,London,17250,grass
+4,Amex Stadium,Brighton,31800,grass
+5,Turf Moor,Burnley,21944,grass
+6,Stamford Bridge,London,40343,grass
+7,Selhurst Park,London,25486,grass
+8,Goodison Park,Liverpool,39414,grass
+9,Craven Cottage,London,29600,grass
+10,Anfield,Liverpool,61276,grass
+11,Kenilworth Road,Luton,10356,grass
+12,Etihad Stadium,Manchester,53400,grass
+13,Old Trafford,Manchester,74140,grass
+14,St James Park,Newcastle,52305,grass
+15,City Ground,Nottingham,30445,grass
+16,Bramall Lane,Sheffield,32050,grass
+17,Tottenham Hotspur Stadium,London,62850,artificial
+18,London Stadium,London,62500,grass
+19,Molineux,Wolverhampton,31750,grass
+20,Vitality Stadium,Bournemouth,11307,grass

@@ -1,0 +1,51 @@
+player_id,player_name,nationality,position,current_team,date_of_birth
+1,Bukayo Saka,English,Forward,Arsenal,2001-09-05
+2,Martin Odegaard,Norwegian,Midfielder,Arsenal,1998-12-17
+3,David Raya,Spanish,Goalkeeper,Arsenal,1995-09-15
+4,Ollie Watkins,English,Forward,Aston Villa,1995-12-30
+5,Emiliano Martinez,Argentinian,Goalkeeper,Aston Villa,1992-09-02
+6,Douglas Luiz,Brazilian,Midfielder,Aston Villa,1998-05-09
+7,Ivan Toney,English,Forward,Brentford,1996-03-16
+8,Bryan Mbeumo,Cameroonian,Forward,Brentford,1999-08-07
+9,David Raya2,Spanish,Goalkeeper,Brentford,1995-09-15
+10,Pascal Gross,German,Midfielder,Brighton,1991-06-15
+11,Kaoru Mitoma,Japanese,Forward,Brighton,1997-05-20
+12,James Milner,English,Midfielder,Brighton,1986-01-04
+13,Vitinho,Brazilian,Forward,Burnley,2000-02-12
+14,Zeki Amdouni,Swiss,Forward,Burnley,2001-03-04
+15,Sander Berge,Norwegian,Midfielder,Burnley,1998-02-14
+16,Cole Palmer,English,Midfielder,Chelsea,2002-05-06
+17,Nicolas Jackson,Senegalese,Forward,Chelsea,2001-06-20
+18,Moises Caicedo,Ecuadorian,Midfielder,Chelsea,2001-11-02
+19,Eberechi Eze,English,Forward,Crystal Palace,2002-06-29
+20,Michael Olise,French,Forward,Crystal Palace,2001-12-18
+21,Jean-Philippe Mateta,French,Forward,Crystal Palace,1997-06-28
+22,Dominic Calvert-Lewin,English,Forward,Everton,1997-03-16
+23,Jarrad Branthwaite,English,Defender,Everton,2002-06-27
+24,Abdoulaye Doucoure,French,Midfielder,Everton,1993-01-01
+25,Raul Jimenez,Mexican,Forward,Fulham,1991-05-05
+26,Andreas Pereira,Brazilian,Midfielder,Fulham,1996-01-01
+27,Bernd Leno,German,Goalkeeper,Fulham,1992-03-04
+28,Mohamed Salah,Egyptian,Forward,Liverpool,1992-06-15
+29,Virgil van Dijk,Dutch,Defender,Liverpool,1991-07-08
+30,Trent Alexander-Arnold,English,Defender,Liverpool,1998-10-07
+31,Carlton Morris,English,Forward,Luton Town,1995-12-16
+32,Ross Barkley,English,Midfielder,Luton Town,1993-12-05
+33,Thomas Kaminski,Belgian,Goalkeeper,Luton Town,1992-10-23
+34,Erling Haaland,Norwegian,Forward,Manchester City,2000-07-21
+35,Kevin De Bruyne,Belgian,Midfielder,Manchester City,1991-06-28
+36,Phil Foden,English,Midfielder,Manchester City,2000-05-28
+37,Marcus Rashford,English,Forward,Manchester United,1997-10-31
+38,Bruno Fernandes,Portuguese,Midfielder,Manchester United,1994-09-08
+39,Andre Onana,Cameroonian,Goalkeeper,Manchester United,1996-04-02
+40,Alexander Isak,Swedish,Forward,Newcastle United,2000-09-21
+41,Bruno Guimaraes,Brazilian,Midfielder,Newcastle United,1997-11-16
+42,Nick Pope,English,Goalkeeper,Newcastle United,1992-04-19
+43,Chris Wood,New Zealander,Forward,Nottingham Forest,1991-12-07
+44,Morgan Gibbs-White,English,Midfielder,Nottingham Forest,2000-01-27
+45,Taiwo Awoniyi,Nigerian,Forward,Nottingham Forest,1997-08-12
+46,Oli McBurnie,Scottish,Forward,Sheffield United,1996-06-04
+47,John Egan,Irish,Defender,Sheffield United,1992-10-20
+48,Wes Foderingham,English,Goalkeeper,Sheffield United,1991-01-14
+49,Son Heung-min,South Korean,Forward,Tottenham Hotspur,1992-07-08
+50,James Maddison,English,Midfielder,Tottenham Hotspur,1996-11-23
