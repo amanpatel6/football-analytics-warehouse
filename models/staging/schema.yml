@@ -36,20 +36,23 @@ models:
         tests: 
           - not_null
           - dbt_utils.accepted_range:
-              min_value: 1
-              max_value: 38
+              arguments:
+                min_value: 1
+                max_value: 38
       - name: home_goals
         tests: 
           - not_null
           - dbt_utils.accepted_range:
-              min_value: 0
-              max_value: 15
+              arguments:
+                min_value: 0
+                max_value: 15
       - name: away_goals
         tests: 
           - not_null
           - dbt_utils.accepted_range:
-              min_value: 0
-              max_value: 15
+              arguments:
+                min_value: 0
+                max_value: 15
       - name: referee
         tests: 
           - not_null
@@ -70,7 +73,8 @@ models:
         tests: 
           - not_null
           - accepted_values:
-              values: ['Goalkeeper', 'Defender', 'Midfielder', 'Forward']
+              arguments:
+                values: ['Goalkeeper', 'Defender', 'Midfielder', 'Forward']
       - name: current_team
         tests:
           - not_null
@@ -123,4 +127,5 @@ models:
         tests: 
           - not_null
           - accepted_values:
-              values: ['grass', 'artificial']
+              arguments:
+                values: ['grass', 'artificial']
